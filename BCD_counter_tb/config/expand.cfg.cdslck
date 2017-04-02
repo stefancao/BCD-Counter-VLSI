@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      stefanc1
+HostName                       zuma.eecs.uci.edu
+ProcessIdentifier              12556
+ProcessCreationTime_UTC        1481241712
+ProcessCreationTime_Readable   Thu Dec  8 16:01:52 2016 PST
+AppIdentifier                  /ecelib/linware/cadence/ic616/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /users/ugrad2/2014/spring/stefanc1/EECS119/Project4/BCD_counter_tb/config/expand.cfg
+TimeEditLocked                 Thu Dec  8 16:02:34 2016 PST
